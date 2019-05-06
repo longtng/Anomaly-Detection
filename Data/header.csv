@@ -34,3 +34,11 @@ MinDailyNumberOfSuccessfulLogBackups (INTEGER [0, N]): minimum number of success
 MaxDailyNumberOfFailedDataBackups (INTEGER [0, N]): maximum number of failed data backups per day;
 MaxDailyNumberOfFailedLogBackups (INTEGER [0, N]): maximum number of failed log backups per day;
 LogSegmentChange (INTEGER [0, N]): changes in the number of log segments.
+Check1;
+Check2;
+Check3;
+Check4;
+Check5;
+Check6;
+Check7;
+Check8;
