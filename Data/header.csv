@@ -1,4 +1,3 @@
-
 SessionNumber (INTEGER): it identifies the session on which data is collected;
 SystemID (INTEGER): it identifies the system generating the data;
 Date (DATE): collection date;
